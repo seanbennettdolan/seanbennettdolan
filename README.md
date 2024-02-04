@@ -3,9 +3,6 @@
 
 - 🌱 I’m currently learning: **TypeScript**
 
-- Music I'm currently listening to: <p align="left"> </a> <a href="https://apple.music.com" target="_blank" rel="noreferrer"> <img allow="autoplay *; encrypted-media *;" frameborder="0" height="450" style="width:100%;max-width:660px;overflow:hidden;background:transparent;" sandbox="allow-forms allow-popups allow-same-origin allow-scripts allow-storage-access-by-user-activation allow-top-navigation-by-user-activation" src="https://embed.music.apple.com/us/album/302072507"></a>
-
-
 
 <p align="left">
 </p>
